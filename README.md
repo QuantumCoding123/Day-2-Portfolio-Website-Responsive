@@ -4,6 +4,18 @@ Embark on an exhilarating journey of web development with the "100 Days, 100 Web
 
 Live Demo - https://quantumcoding123.github.io/Day-2-Portpolio-Website-Responsive/
 
+# Join Us
+
+GitHub-https://github.com/QuantumCoding123
+
+YouTube-https://www.youtube.com/channel/UC3Dz2Yaz2uWAczNU4GEDg5Q
+
+Instagram - https://www.instagram.com/quantumcoding123?igsh=dG11MDNsOGJrM3Jt
+
+Telegram-https://t.me/+yw9iQAMmd002NTI1
+
+Whatsapp- https://whatsapp.com/channel/0029VaVInCA2ZjCjXEf2IC2I
+
 With a plethora of free resources available online, including tutorials, code snippets, and open-source projects, you'll have everything you need to bring your ideas to life. Whether you're building a personal blog, an e-commerce site, a portfolio showcase, or an interactive web application, the possibilities are endless.
 
 Join the "100 Days, 100 Websites" challenge today and witness your proficiency in web development soar to new heights. With dedication, perseverance, and a dash of creativity, you'll emerge from this journey as a proficient web developer ready to tackle any project that comes your way.
@@ -20,15 +32,5 @@ Join the "100 Days, 100 Websites" challenge today and witness your proficiency i
 
 ![Screenshot (9)](https://github.com/QuantumCoding123/Day-2-Portpolio-Website-Responsive/assets/166281221/dfba3034-1f1a-4b6b-9278-92cb629ff1b9)
 
-# Join Us
 
-GitHub-https://github.com/QuantumCoding123
-
-YouTube-https://www.youtube.com/channel/UC3Dz2Yaz2uWAczNU4GEDg5Q
-
-Instagram - https://www.instagram.com/quantumcoding123?igsh=dG11MDNsOGJrM3Jt
-
-Telegram-https://t.me/+yw9iQAMmd002NTI1
-
-Whatsapp- https://whatsapp.com/channel/0029VaVInCA2ZjCjXEf2IC2I
 
